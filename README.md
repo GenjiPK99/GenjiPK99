@@ -8,11 +8,13 @@
 
 - 🌱 I’m currently learning **JavaScript,Php,Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GenjiPK99](https://github.com/GenjiPK99?tab=repositories)
-
 - 💬 Ask me about **everything**
 
+- 🎓 My certificates are available at [(https://www.credential.net/d0933a2e-79f9-49cd-ba8b-c2a0e020a6fa)]
+
 - 📫 How to reach me **domenicocaraviello1999@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/GenjiPK99](https://github.com/GenjiPK99?tab=repositories)
 
 - ⚡ Fun fact **I'm a lucky guy, because they gave me a dream 😄**
 
