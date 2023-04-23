@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript,Php,Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GenjiPK99](https://github.com/GenjiPK99)
+- 👨‍💻 All of my projects are available at [https://github.com/GenjiPK99](https://github.com/GenjiPK99?tab=repositories)
 
 - 💬 Ask me about **everything**
 
