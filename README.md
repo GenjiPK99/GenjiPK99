@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **everything**
 
-- 🎓 My certificates are available at [https://www.credential.net/d0933a2e-79f9-49cd-ba8b-c2a0e020a6fa]
+- 🎓 My certificates are available at [https://www.credential.net/]([https://www.credential.net/profile/domenicocaraviello1999/wallet#gs.w64l2q](https://www.credential.net/profile/domenicocaraviello1999/wallet#gs.w64l2q))
 
 - 📫 How to reach me **domenicocaraviello1999@gmail.com**
 
