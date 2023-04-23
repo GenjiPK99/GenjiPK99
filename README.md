@@ -10,11 +10,11 @@
 
 - 💬 Ask me about **everything**
 
-- 🎓 My certificates are available at [https://www.credential.net/profile/domenicocaraviello1999/wallet#gs.w64l2q](https://www.credential.net/profile/domenicocaraviello1999/wallet#gs.w64l2q))
-
 - 📫 How to reach me **domenicocaraviello1999@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GenjiPK99](https://github.com/GenjiPK99?tab=repositories)
+
+- 🎓 My certificates are available at [https://www.credential.net/profile/domenicocaraviello1999](https://www.credential.net/profile/domenicocaraviello1999/wallet#gs.w64l2q)
 
 - ⚡ Fun fact **I'm a lucky guy, because they gave me a dream 😄**
 
