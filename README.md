@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4)
 <h1 align="center">Hi 👋, I'm Domenico Caraviello - Alias: Genji</h1>
 <h3 align="center">Junior Web Developer - There is no bad Dev more bad than a good Dev going bad.</h3>
-<img width="400"  align="right" src="https://www.uos.ac.uk/sites/www.uos.ac.uk/files/ReubenAnimated.gif"  alt="Coding" style="margin: 10px;">
+<img width="400"  height="600" align="right" src="https://www.uos.ac.uk/sites/www.uos.ac.uk/files/ReubenAnimated.gif"  alt="Coding" style="margin: 10px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genjipk99&label=Profile%20views&color=0e75b6&style=flat-square" alt="genjipk99" /> </p>
 
 - 🔭 I’m currently working on ** my future career**
