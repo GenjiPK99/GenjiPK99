@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Domenico Caraviello - Alias: Genji</h1>
 <h3 align="center">Junior Web Developer - There is no bad Dev more bad than a good Dev going bad.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" height="700" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genjipk99&label=Profile%20views&color=0e75b6&style=flat-square" alt="genjipk99" /> </p>
 
-- 🔭 I’m currently working on **future career**
+- 🔭 I’m currently working on ** my future career**
 
 - 🌱 I’m currently learning **JavaScript,Php,Java**
 
